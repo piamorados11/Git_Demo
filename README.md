@@ -1,2 +1,2 @@
 # Git_Demo
-Sample Demonstartion
+Sample Demonstartion for IT Elective DevOps
